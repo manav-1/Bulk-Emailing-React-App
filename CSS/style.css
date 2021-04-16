@@ -1,0 +1,12 @@
+.fileInput{
+    display: none;
+}
+.fileLabel{
+    padding:10px;
+    background-color:blue;
+    width: 8%;
+    text-align:center;
+    color:white;
+    font-family:karla;
+    border-radius: 6px;
+}
